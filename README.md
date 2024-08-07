@@ -8,7 +8,7 @@
 -   Train the model
 -   Evaluate the model/model selection
 -   Deploy the model
--   ### 15_day workingwith csv all about
+- ### 15_day workingwith csv all about
 -   Opeaning a csv file an url or Server 
 -   Sep Parameter
 -   Index_col parameter
@@ -19,3 +19,4 @@
 -   dtype param...
 -   handling dates
 -   loading a huge dataset in chunks
+-   
