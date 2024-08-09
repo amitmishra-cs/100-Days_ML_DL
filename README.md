@@ -19,4 +19,7 @@
 -   dtype param...
 -   handling dates
 -   loading a huge dataset in chunks
--   
+- ### 16_days working with json sql and data fetch Api 
+-   Data Manipulation: Pandas provides powerful tools for filtering, transforming, and aggregating data.
+-   Analysis: With Pandas, you can perform various statistical analyses on the data.
+-   Visualization: You can easily plot data using libraries like Matplotlib or Seaborn with Pandas.  
